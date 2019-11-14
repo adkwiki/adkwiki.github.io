@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: adkwiki.github.io 
+Token: 8113e5a26e826fcee5e701d336104ceaf709006b52864c3001fe8234c273075f
